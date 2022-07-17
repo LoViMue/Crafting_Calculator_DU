@@ -13,4 +13,4 @@ You must add the % of cost reduction and % of more output to an Excel list.
 You need to have Python installed with thinker and pandas
 
 The code is written in German, but I hope it is still understandable.
-This is the first 
+This is the first I public uploaded Code.
