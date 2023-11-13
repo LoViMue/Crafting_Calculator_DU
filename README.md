@@ -1,16 +1,9 @@
-# Crafting_Calculator_DU
+This tool is designed for use in Dual Universe, but it should be compatible with other games as well, provided you can find a recipe list.
 
-This is made for Dual Universe but it should work with other games to if you can find a recepie list. 
+When attempting to set up our industry, we encountered a significant challenge: the sheer amount of effort required to manually calculate the data needed to determine the prices of the elements we were creating.
 
-We tried setting up industry but:
-The problem we had is that it was way to much work to Calculate up all the data to get the Price of the Elements we Created.
+In my search for a solution, I came across valuable .json data containing comprehensive recipe information. This data is what powers the calculator available at https://github.com/Novean-Institute-of-Standards/du_recipies. Leveraging this resource, I developed a calculator capable of factoring in different skills.
 
-I Found useful. json Data where every Recipe was included, this makes this Calculator work https://github.com/Novean-Institute-of-Standards/du_recipies 
-So, I made a Calculator, it can as well calculated Different skills. 
-You must add the % of cost reduction and % of more output to an Excel list.
+To use the calculator, you'll need to input the percentage of cost reduction and the percentage of increased output into an Excel list. Additionally, Python with Tkinter and Pandas must be installed on your system.
 
-
-You need to have Python installed with thinker and pandas
-
-The code is written in German, but I hope it is still understandable.
-This is the first I public uploaded Code.
+While the code is written in German, I hope it remains comprehensible. This marks the first public release of the code.
